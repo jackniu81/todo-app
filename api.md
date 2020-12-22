@@ -1,7 +1,18 @@
 Spring Boot 入门实战，实现一个 TODO 系统的后端 API 项目。
 
-<!-- TOC -->autoauto- [1. 实现功能](#1-实现功能)auto- [2. 前期准备](#2-前期准备)auto- [3. 新建项目](#3-新建项目)auto    - [3.1. 基于 Spring Initializr 初始化项目](#31-基于-spring-initializr-初始化项目)auto    - [3.2. 添加依赖](#32-添加依赖)auto    - [3.3. 增加配置文件](#33-增加配置文件)auto- [4. 编写代码实现TODO程序的API](#4-编写代码实现todo程序的api)auto    - [4.1. 实体类-Task](#41-实体类-task)auto    - [4.2. 数据库访问](#42-数据库访问)auto    - [4.3. API代码。](#43-api代码)auto    - [4.4. 应用主类增加注解@EnableOpenApi](#44-应用主类增加注解enableopenapi)auto- [5. 执行API](#5-执行api)auto- [6. 总结](#6-总结)autoauto<!-- /TOC -->
-
+- [1. 实现功能](#1-----)
+- [2. 前期准备](#2-----)
+- [3. 新建项目](#3-----)
+  * [3.1. 基于 Spring Initializr 初始化项目](#31----spring-initializr------)
+  * [3.2. 添加依赖](#32-----)
+  * [3.3. 增加配置文件](#33-------)
+- [4. 编写代码实现TODO程序的API](#4-------todo---api)
+  * [4.1. 实体类-Task](#41-----task)
+  * [4.2. 数据库访问](#42------)
+  * [4.3. API代码。](#43-api---)
+  * [4.4. 应用主类增加注解@EnableOpenApi](#44----------enableopenapi)
+- [5. 执行API](#5---api)
+- [6. 总结](#6---)
 
 # 1. 实现功能
 
