@@ -204,3 +204,5 @@ public class TodoApiApplication {
 
 # 6. 总结
 麻雀虽小，五脏俱全。这个小的API包含了数据库初始化，数据库访问，Swagger文档等内容。但是代码量确实很小的，可以看出Spring Boot框架的强大。Spring Boot强调开箱即用，提供各种默认配置来简化项目配置。基于`约定优于配置`的原则，简化配置，实现快速开发。
+
+代码： https://github.com/jackniu81/todo-app/tree/main/todo-api
